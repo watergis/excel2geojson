@@ -1,0 +1,23 @@
+{
+  "name": "excel2geojson",
+  "version": "1.0.0",
+  "description": "It is a module converting from Excel to Geojson",
+  "main": "index.js",
+  "scripts": {
+    "test" : "node example/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinIgarashi/excel2geojson.git"
+  },
+  "author": "Jin IGARASHI",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/JinIgarashi/excel2geojson/issues"
+  },
+  "homepage": "https://github.com/JinIgarashi/excel2geojson#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.6.1",
+    "geojson": "^0.5.0"
+  }
+}
