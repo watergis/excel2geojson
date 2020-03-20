@@ -11,7 +11,7 @@
     "url": "git+https://github.com/JinIgarashi/excel2geojson.git"
   },
   "author": "Jin IGARASHI",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JinIgarashi/excel2geojson/issues"
   },
